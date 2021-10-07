@@ -1,10 +1,13 @@
 # Data Science Portfolio   
 
 ### Machine Learning:
+#### Regression
 
+#### classification 
+* Sensor Activity Recogniation 
+#### Clustering 
 * Find the best location to open a new Gym 
 * Core Customers identifcaition 
-* Sensor Activity Recogniation 
 
 ### Deep Learning 
 
