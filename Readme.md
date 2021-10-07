@@ -6,7 +6,7 @@
 #### classification 
 * Sensor Activity Recogniation 
 #### Clustering 
-* __Find the best location to open a new Gym__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
+* __[Find the best location to open a new Gym](https://github.com/youssefHosni/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
 * Core Customers identifcaition 
 
 ### Deep Learning 
