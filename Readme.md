@@ -7,10 +7,15 @@
 * Sensor Activity Recogniation 
 
 ### Deep Learning 
+
+#### Computer Vision 
 * Melenoma Classification 
+
+#### Time series Analysis 
 * Power consumption prediction 
 
-### Natural Language Processing 
+#### Natural Language Processing 
+
 * CV clasiifier 
 * Sentiment Analysis 
 * Plagirasm Detector 
@@ -39,6 +44,7 @@
 * Data Science Professional Certificate 
 * AI for Medicine 
 
+### Courses 
 
 
 
