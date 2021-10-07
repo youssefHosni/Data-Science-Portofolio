@@ -39,13 +39,13 @@
 
 
 ### Certificates 
-* Machine Learning Specialization 
-* Big Data Specialization  
-* Machine Learning Nanodegree
-* Machine Learning Engineer Nanodegree
-* AWS Fundemntals Specialization 
-* Data Science Professional Certificate 
-* AI for Medicine 
+* [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
+* [Big Data Specialization](https://coursera.org/share/be7f65fa09309f4cc3e2c67bcb071c3f)  
+* [Intro to Machine Learning with Tensorflow Nanodegree](https://confirm.udacity.com/EAATQCZY)
+* [Machine Learning Engineer Nanodegree](https://confirm.udacity.com/KCFRE3KD)
+* [AWS Fundemntals Specialization](https://coursera.org/share/e34358a0200a916eebb07b64f22d055e)
+* [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
+* [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
 
 ### Courses 
 
