@@ -4,10 +4,10 @@
 #### Regression
 
 #### classification 
-* Sensor Activity Recogniation 
+* Sensor Activity Recogniation
 #### Clustering 
 * __[Find the best location to open a new Gym](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
-* Core Customers identifcaition 
+* __[Customer identification for mail order products](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
 
 ### Deep Learning 
 
