@@ -1,5 +1,5 @@
 # Data Science Portfolio   
-
+---
 ### Machine Learning:
 #### Regression
 
@@ -8,20 +8,20 @@
 #### Clustering 
 * __[Find the best location to open a new Gym](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
 * __[Customer identification for mail order products](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
-
+---
 ### Deep Learning 
 * __[Melenoma Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Deep%20Learning/Classification/Melenoma_Classification)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers.
 
 #### Computer Vision 
 
 #### Time series Analysis
-* __[Power consumption prediction]()__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
+* __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
 
 #### Natural Language Processing 
 
-* CV clasiifier 
-* Sentiment Analysis 
-* Plagirasm Detector 
+* __[Sentiment Analysis web app]()__:  
+* __[Plagirasm Detector web app]()__: 
+* __[CV clasiifier]()__: 
 
 ### Data Analysis 
 
