@@ -14,8 +14,8 @@
 
 #### Computer Vision 
 
-#### Time series Analysis 
-* Power consumption prediction 
+#### Time series Analysis
+* __[Power consumption prediction]()__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
 
 #### Natural Language Processing 
 
