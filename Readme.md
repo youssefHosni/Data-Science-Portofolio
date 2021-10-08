@@ -19,8 +19,8 @@
 ---
 ### Natural Language Processing 
 
-* __[Sentiment Analysis web app]()__:  
-* __[Plagirasm Detector web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/plagiarism-detector-web-app)__: 
+* __[Sentiment Analysis web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
+* __[Plagirasm Detector web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/plagiarism-detector-web-app)__: Creating plagiarism detector trained on LSC and containments features and deployed on AWS SageMaker.
 * __[CV clasiifier]()__: 
 ---
 ### Data Analysis 
