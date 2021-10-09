@@ -6,6 +6,7 @@
 #### Classification 
 * __[Sensor Activity Recogniation](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)__:Classifying the output of eight sensors into five activities and studied the effect of changing window
 sizes and axel combination.
+* __[Alzhimers CV-BOLD Classification]()__: Utilized Python to develop supervised machine learning techniques to classify imbalanced Alzheimer’s CVBOLD data, which enhanced the classification performance by 10%. 
 #### Clustering 
 * __[Find the best location to open a new Gym](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym. 
 * __[Customer identification for mail order products](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
