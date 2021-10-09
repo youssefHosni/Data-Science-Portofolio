@@ -41,7 +41,8 @@ sizes and axel combination.
 ### Data Analysis 
 ---
 ### Data Visulization:
-*  [Immigrants to Canada data visulization](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb): Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
+* __[Immigrants to Canada data visulization](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb)__: Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
+*  __[Spatial visualization of San Francisco Police Department Incidents for 2016]()__: 
 ---
 ### Spark 
 
