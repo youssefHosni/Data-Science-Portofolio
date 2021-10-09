@@ -41,7 +41,7 @@ sizes and axel combination.
 ### Data Analysis 
 ---
 ### Data Visulization:
-*  [Immigrants to Canada](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb): Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
+*  [Immigrants to Canada data visulization](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb): Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
 ---
 ### Spark 
 
