@@ -19,7 +19,7 @@
 
 * __[Sentiment Analysis web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
 * __[Plagirasm Detector web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/plagiarism-detector-web-app)__: Creating plagiarism detector trained on LSC and containments features and deployed on AWS SageMaker.
-* __[Data Science Resume Selector]()__: Selecting the resume that are eligbile to data scientist postions, the dataset used contains 125 resumes, in the resumetext column. Resumes were queried from Indeed. 
+* __[Data Science Resume Selector](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Data-Science-Resume-Selector)__: Selecting the resume that are eligbile to data scientist postions, the dataset used contains 125 resumes, in the resumetext column. Resumes were queried from Indeed. 
 ---
 ### Time series Analysis
 * __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
