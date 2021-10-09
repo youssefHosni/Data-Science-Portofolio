@@ -1,5 +1,16 @@
 # Data Science Portfolio   
 ---
+
+## Masters thesis
+
+* Utilized statistical methods to find the significant differences in the modulation of brain cardiovascular pulse with respiration between controls and Alzheimer’s cases to help the neurological researchers to have a better understanding of Alzheimer’s diseases. The differences found were strongly significant (P<0.01) and novel.  
+* Preprocessed and extracted features using a 3D multiresolution optical flow of 0.25 TB complex brain imaging data using python.
+* Publication: Youssef Hosni, Ahmed Elabasy et.al., Respiration modulates cardiovascular brain impulse pathology in Alzheimer’s disease. Submitted to Journal of Cerebral Blood Flow and Metabolism.  
+* Publication: Ahmed Elabasy, Youssef Hosni et.al., Optical Flow Analysis of Propagating Respiratory Brain Pulsations. Submitted to IEEE Transactions on Medical Imaging.
+
+
+----
+
 ### Machine Learning:
 #### Regression
 
