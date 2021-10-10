@@ -1,4 +1,4 @@
-# Data Science Portfolio   
+# Data Science Portfolio  
 ---
 
 ## [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
@@ -65,6 +65,11 @@ sizes and axel combination.
 
 ---
 ### Courses 
+* [Deep Learning](https://github.com/youssefHosni/Deep-learning-Specilization) 
+* [Data Science](https://github.com/youssefHosni/IBM-data-science-proffesional-certificate) 
+* [Machine learning engineering](https://github.com/youssefHosni/Machine-Learning-Engineer-Udacity-Nanodegree)
+* [Intro to machine learning with tesnorflow](https://github.com/youssefHosni/Intro-to-machine-learning-nanodegree)
+
 
 
 
