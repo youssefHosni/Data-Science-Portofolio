@@ -1,4 +1,5 @@
 # Data Science Portfolio  
+Resume Blog LinkedIn
 ---
 
 ## [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
@@ -7,8 +8,6 @@
 * Preprocessed and extracted features using a 3D multiresolution optical flow of 0.25 TB complex brain imaging data using python.
 * Publication: __Youssef Hosni__, Ahmed Elabasy et.al., Respiration modulates cardiovascular brain impulse pathology in Alzheimer’s disease. Submitted to Journal of Cerebral Blood Flow and Metabolism.  
 * Publication: Ahmed Elabasy, __Youssef Hosni__ et.al., Optical Flow Analysis of Propagating Respiratory Brain Pulsations. Submitted to IEEE Transactions on Medical Imaging.
-
-
 ----
 
 ### Machine Learning:
@@ -53,6 +52,8 @@ sizes and axel combination.
 ### MonogoDB
 
 ---
+
+
 
 ### Certificates 
 * [Machine Learning Specialization](https://coursera.org/share/fc5c10d3f96939edf29145069b48a6a3) 
