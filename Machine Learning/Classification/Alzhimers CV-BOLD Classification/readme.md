@@ -1,8 +1,8 @@
 This project is about utilizint resting_state FMRI to classify patients with Alzheimer's disease form controls.
 The project started on June 2019, as a part of summer internship in Oulu universtiy, in collaboration with Oulu-university 
 hospital.
-___
 
+---
 ## Installation
 ___
 ### Dependencies
@@ -26,12 +26,13 @@ pip3 install -r requirements.txt
 ```
 
 ## Data
-___
+
 In this project Oulu university data where used for trainign the model and [ADNI](http://adni.loni.usc.edu/data-samples/) data were used in testing the performance.
 The 4mm Brain mask that was used for extracting brain from scalp had been extracted using [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 
+---
 ## Model
-___
+
 Coefficient of variation over time for BOLD signal was used as the input data for the model. The model Consists of three main 
 steps:
 1. Loading and preprocessing the input data
@@ -39,6 +40,8 @@ steps:
 1. Classify the masked data using many classifiers and printing the results (Gaussian process classifier provides the best 
 performance in high dimensional space.
 
+
+---
 ### Running the code
 ```python3
 python3 main.py
@@ -46,8 +49,9 @@ python3 main.py
 Change input parameters and variables in the main.py file to fit your requirements and preferences
 The default script runs under 10 minutes on an average laptop using under 1 GB of memory.
 
+---
 ## Results
-___
+
 The results folder sould be created by you and give it name to the variable 'Results_directory' , it contains the measured performace in **Results.txt**, the used parameters and chosed classifier **README.txt**, mask of effective voxels, and voxel importance weight.
 The provided pretrained model in **Output_results_directory** gives the following confidence level:
 
