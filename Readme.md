@@ -45,6 +45,7 @@ sizes and axel combination.
 ---
 ### Spark 
 * __[San Diego Rainforest Fire Predicition](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Spark/San%20Diego%20Rainforest%20Fire%20Predicition)__: Predicting the occurance of rainforest fire in san Diego using weather data collected by san Diego weather center.   
+* __[Cluster Analysis of the San Diego Weather Data](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Spark/Cluster%20Analysis%20of%20the%20San%20Diego%20Weather%20Data)__:
 ---
 ### SQL 
 ---
