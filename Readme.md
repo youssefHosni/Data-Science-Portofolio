@@ -12,6 +12,7 @@
 
 ### Machine Learning:
 #### Regression
+* __[Automobile price prediction]()__:
 
 #### Classification 
 * __[Sensor Activity Recogniation](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)__:Classifying the output of eight sensors into five activities and studied the effect of changing window
