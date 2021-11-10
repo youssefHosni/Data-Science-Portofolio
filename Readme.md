@@ -27,6 +27,7 @@ sizes and axel combination.
 ---
 ### Computer Vision 
 ---
+•	__[Pose Estimation and Squat counter](): Utilize python to develop a real-time pose estimation and squat counter using MovingNet lightning.
 
 ### Natural Language Processing 
 
