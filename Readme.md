@@ -29,7 +29,7 @@ sizes and axel combination.
 
 *	__[Pose Estimation and Squat counter](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Computer%20Vision/Pose%20Estimation%20%26%20Squat%20Counter)__: Utilize python to develop a real-time pose estimation and squat counter using MovingNet lightning.
 
-* __[Real Time Sign Language Detection App]()__: Developed a real-time sign language interpretation application using React.js and tensorflow.js. 
+* __[Real Time Sign Language interpretation App](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Computer%20Vision/Real%20Time%20Sign%20Language%20Interpretation%20App)__: Developed a real-time sign language interpretation application using React.js and tensorflow.js. 
 ---
 ### Natural Language Processing 
 
