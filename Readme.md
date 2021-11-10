@@ -26,9 +26,10 @@ sizes and axel combination.
 * __[Melenoma Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Deep%20Learning/Classification/Melenoma_Classification)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers.
 ---
 ### Computer Vision 
----
-•	__[Pose Estimation and Squat counter](): Utilize python to develop a real-time pose estimation and squat counter using MovingNet lightning.
 
+*	__[Pose Estimation and Squat counter](): Utilize python to develop a real-time pose estimation and squat counter using MovingNet lightning.
+
+---
 ### Natural Language Processing 
 
 * __[Sentiment Analysis web app](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Sentiment-analysis)__: Web application for classification of reviews, using deep learning model implemented in PyTorch and deployed on Amazon SageMaker.  
