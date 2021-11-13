@@ -32,6 +32,7 @@ MoveNet is the state-of-the-art pose estimation model that can detect these 17 k
 The various body joints detected by the pose estimation model are tabulated below:
 
 | Id	| Part |
+| --- | ----------- |
 | 0	 | nose |
 | 1	| leftEye |
 | 2	| rightEye |
