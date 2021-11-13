@@ -7,7 +7,7 @@ Pose estimation refers to a general problem in computer vision techniques that d
 ![alt-text](https://github.com/youssefHosni/Data-Science-Portofolio/blob/main/Computer%20Vision/Pose%20Estimation%20%26%20Squat%20Counter/jump.gif)
 
 Based on the results of the pose estimatiaon, the squat movment was detected and counted and printed on the screen as shown in the video below.
-
+![alt-text](https://github.com/youssefHosni/Data-Science-Portofolio/blob/main/Computer%20Vision/Pose%20Estimation%20%26%20Squat%20Counter/ezgif.com-gif-maker.gif)
 ---
 
 ### Methods 
