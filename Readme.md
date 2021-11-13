@@ -15,7 +15,7 @@
 * __[Automobile price prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Automobile%20price%20prediction)__: Utlitize python to implement end to end data science pipeline to predict the price of old Automobile based on the given features.
 
 #### Classification 
-* __[Sensor Activity Recogniation](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)__:Classifying the output of eight sensors into five activities and studied the effect of changing window
+* __[Sensor Activity Recogniation](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition)__: Classifying the output of eight sensors into five activities and studied the effect of changing window
 sizes and axel combination.
 * __[Alzhimers CV-BOLD Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Alzhimers%20CV-BOLD%20Classification)__: Utilized Python to develop supervised machine learning techniques to classify imbalanced Alzheimer’s CVBOLD data, which enhanced the classification performance by 10%. 
 #### Clustering 
@@ -23,7 +23,7 @@ sizes and axel combination.
 * __[Customer identification for mail order products](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Customer%20identification%20for%20mail%20order%20products)__: Utilized python to implement unsupervised techniques to helping the business owner to increase his revenue by finding the best neighborhood to open a new gym.
 ---
 ### Deep Learning 
-* __[Melenoma Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Deep%20Learning/Classification/Melenoma_Classification)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers.
+* __[Melenoma Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Deep%20Learning/Classification/Melenoma_Classification)__: Classifying malignant Melanoma using skin lesion images using CNN-based classifiers.
 ---
 ### Computer Vision 
 
@@ -38,7 +38,7 @@ sizes and axel combination.
 * __[Data Science Resume Selector](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Data-Science-Resume-Selector)__: Selecting the resume that are eligbile to data scientist postions, the dataset used contains 125 resumes, in the resumetext column. Resumes were queried from Indeed. 
 ---
 ### Time series Analysis
-* __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__:Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
+* __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Classifying malignant Melanoma using skin lesion images using CNN-based classifiers. 
 ---
 
 ### Data Analysis 
