@@ -58,5 +58,7 @@ The various body joints detected by the pose estimation model are tabulated belo
 
 ### Install dependencies
 
-"pip install -r requirements"
+```
+pip install -r requirements
+```
 
