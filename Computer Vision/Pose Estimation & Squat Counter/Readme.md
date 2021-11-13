@@ -10,7 +10,14 @@ Based on the results of the pose estimatiaon, the squat movment was detected and
 
 ### Methods 
 
- MoveNet is the state-of-the-art pose estimation model that can detect these 17 key-points:
+The model used is MoveNet, the MoveNet is available in two flavors:
+
+* MoveNet.Lightning is smaller, faster but less accurate than the Thunder version. It can run in realtime on modern smartphones.
+* MoveNet.Thunder is the more accurate version but also larger and slower than Lightning. It is useful for the use cases that require higher accuracy.
+
+MoveNet.Lightning is used here.
+
+MoveNet is the state-of-the-art pose estimation model that can detect these 17 key-points:
  
 * Nose
 * Left and right eye
