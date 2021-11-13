@@ -8,6 +8,8 @@ Pose estimation refers to a general problem in computer vision techniques that d
 
 Based on the results of the pose estimatiaon, the squat movment was detected and counted and printed on the screen as shown in the video below.
 
+---
+
 ### Methods 
 
 The model used is MoveNet, the MoveNet is available in two flavors:
@@ -52,4 +54,4 @@ The various body joints detected by the pose estimation model are tabulated belo
 | 16	| rightAnkle |
 
 
-
+---
