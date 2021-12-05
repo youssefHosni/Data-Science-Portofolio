@@ -51,10 +51,9 @@ sizes and axel combination.
 * __[San Diego Rainforest Fire Predicition](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Spark/San%20Diego%20Rainforest%20Fire%20Predicition)__: Predicting the occurance of rainforest fire in san Diego using weather data collected by san Diego weather center.   
 * __[Cluster Analysis of the San Diego Weather Data](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Spark/Cluster%20Analysis%20of%20the%20San%20Diego%20Weather%20Data)__: Ultilizing pyspark to implement unsupervised learning model to cluster the san Diego weather data so as to better understand the occurance of the rainforest fire.
 ---
-### SQL 
----
+### Data Modeling 
+* __[Songs App User Activity Data Modeling](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20with%20Postgres)__ : Modeling user activity data for a music streaming app called Sparkify to optimize queries for understanding what songs users are listening to by creating a Postgres relational database and ETL pipeline to build up Fact and Dimension tables and insert data into new tables.
 
-### MonogoDB
 
 ---
 
