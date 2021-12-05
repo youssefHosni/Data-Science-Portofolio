@@ -76,7 +76,7 @@ sizes and axel combination.
 * [Machine learning engineering](https://github.com/youssefHosni/Machine-Learning-Engineer-Udacity-Nanodegree)
 * [Intro to machine learning with tesnorflow](https://github.com/youssefHosni/Intro-to-machine-learning-nanodegree)
 * [Data Engineering](https://github.com/youssefHosni/Data-Engineering-Nanodegree)
-
+* [Time Series](https://github.com/youssefHosni/Time-Series-Kaggle-Course)
 
 
 
