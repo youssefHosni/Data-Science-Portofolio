@@ -53,7 +53,7 @@ sizes and axel combination.
 ---
 ### Data Modeling 
 * __[Songs App User Activity Data Modeling](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20with%20Postgres)__ : Modeling user activity data for a music streaming app called Sparkify to optimize queries for understanding what songs users are listening to by creating a Postgres relational database and ETL pipeline to build up Fact and Dimension tables and insert data into new tables.
-* __[Songs App data modeling using Apache Casandra](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20With%20Apache%20Cassandra)__: as
+* __[Songs App data modeling using Apache Casandra](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20With%20Apache%20Cassandra)__: Create an Apache Cassandra database which can create queries on song play data to answer analysis questions.
    
 ---
 
