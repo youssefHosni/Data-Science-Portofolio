@@ -67,6 +67,8 @@ sizes and axel combination.
 * [AWS Fundemntals Specialization](https://coursera.org/share/e34358a0200a916eebb07b64f22d055e)
 * [Data Science Professional Certificate](https://coursera.org/share/696a589922de676e872971acf146f4ec) 
 * [AI for Medicine](https://coursera.org/share/e12fc21c24eb1ebfe70121c66b7ee8ad)
+* [Data Visualization with Seborn](https://www.kaggle.com/learn/certification/youssef19/data-visualization)
+* [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
 
 ---
 ### Courses 
