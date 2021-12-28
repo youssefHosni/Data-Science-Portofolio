@@ -71,7 +71,7 @@ sizes and axel combination.
 * [Time Series Forecasting](https://www.kaggle.com/learn/certification/youssef19/time-series)
 * [Data-Visualization-with-Plotly-in-Python](https://www.datacamp.com/statement-of-accomplishment/course/49b8afff93d6cbd07813b058ada618ddbd85fbab)
 ---
-### Courses 
+### Course Work
 * [Deep Learning](https://github.com/youssefHosni/Deep-learning-Specilization) 
 * [Data Science](https://github.com/youssefHosni/IBM-data-science-proffesional-certificate) 
 * [Machine learning engineering](https://github.com/youssefHosni/Machine-Learning-Engineer-Udacity-Nanodegree)
