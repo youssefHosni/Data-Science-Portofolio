@@ -1,5 +1,5 @@
 # Data Science Portfolio  
-[Resume](https://github.com/youssefHosni/Data-Science-Portofolio/blob/main/Hosni_Youssef_Resume.pdf) | [Blog](https://youssefraafat57.medium.com/) | [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
+[Blog](https://youssefraafat57.medium.com/) | [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
 ---
 
 ## [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
