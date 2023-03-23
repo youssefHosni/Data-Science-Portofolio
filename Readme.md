@@ -2,12 +2,13 @@
 ---
 ## End to End Projects ##
 
-### [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
+### [Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
+•	Utilized Python programming language and Bash scripting to preprocess and extract features from 4D complex brain imaging data amounting to 0.25 TB, applying a 3D multiresolution optical flow technique.
+•	Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
+•	Conducted A/B testing to identify significant differences in the modulation of brain cardiovascular pulse with respiration between control subjects and individuals with Alzheimer's disease.
+•	Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted two papers to JCBFM.
 
-* Utilized statistical methods to find the significant differences in the modulation of brain cardiovascular pulse with respiration between controls and Alzheimer’s cases to help the neurological researchers to have a better understanding of Alzheimer’s diseases. The differences found were strongly significant (P<0.01) and novel.  
-* Preprocessed and extracted features using a 3D multiresolution optical flow of 0.25 TB complex brain imaging data using python.
-* Publication: __Youssef Hosni__, Ahmed Elabasy et.al., Respiration modulates cardiovascular brain impulse pathology in Alzheimer’s disease. Submitted to Journal of Cerebral Blood Flow and Metabolism.  
-* Publication: Ahmed Elabasy, __Youssef Hosni__ et.al., Optical Flow Analysis of Propagating Respiratory Brain Pulsations. Submitted to IEEE Transactions on Medical Imaging.
+
 ----
 
 ## Skill Based Projects ## 
