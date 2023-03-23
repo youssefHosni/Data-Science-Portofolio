@@ -42,7 +42,7 @@ sizes and axel combination.
 * __[Data Science Resume Selector](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Natural_Language_processing/Data-Science-Resume-Selector)__: Selecting the resume that are eligbile to data scientist postions, the dataset used contains 125 resumes, in the resumetext column. Resumes were queried from Indeed. 
 ---
 ### Time series Analysis
-* __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consuption. 
+* __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
 ---
 
 ### Data Analysis 
