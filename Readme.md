@@ -3,10 +3,10 @@
 ## End to End Projects ##
 
 ### [Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
-•	Utilized Python programming language and Bash scripting to preprocess and extract features from 4D complex brain imaging data amounting to 0.25 TB, applying a 3D multiresolution optical flow technique.
-•	Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
-•	Conducted A/B testing to identify significant differences in the modulation of brain cardiovascular pulse with respiration between control subjects and individuals with Alzheimer's disease.
-•	Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted two papers to JCBFM.
+* Utilized Python programming language and Bash scripting to preprocess and extract features from 4D complex brain imaging data amounting to 0.25 TB, applying a 3D multiresolution optical flow technique.
+* Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
+* Conducted A/B testing to identify significant differences in the modulation of brain cardiovascular pulse with respiration between control subjects and individuals with Alzheimer's disease.
+* Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted two papers to JCBFM.
 
 
 ----
