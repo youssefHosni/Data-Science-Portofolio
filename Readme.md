@@ -1,14 +1,16 @@
 # Data Science Portfolio  
-[Blog](https://youssefraafat57.medium.com/) | [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
 ---
+## End to End Projects ##
 
-## [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
+### [Masters thesis: Respiratory modulation of cardiovascular brain pulsations in Alzheimer’s disease](https://github.com/youssefHosni/Respiratory-modulation-of-cardiovascular-pulsation)
 
 * Utilized statistical methods to find the significant differences in the modulation of brain cardiovascular pulse with respiration between controls and Alzheimer’s cases to help the neurological researchers to have a better understanding of Alzheimer’s diseases. The differences found were strongly significant (P<0.01) and novel.  
 * Preprocessed and extracted features using a 3D multiresolution optical flow of 0.25 TB complex brain imaging data using python.
 * Publication: __Youssef Hosni__, Ahmed Elabasy et.al., Respiration modulates cardiovascular brain impulse pathology in Alzheimer’s disease. Submitted to Journal of Cerebral Blood Flow and Metabolism.  
 * Publication: Ahmed Elabasy, __Youssef Hosni__ et.al., Optical Flow Analysis of Propagating Respiratory Brain Pulsations. Submitted to IEEE Transactions on Medical Imaging.
 ----
+
+## Skill Based Projects ## 
 
 ### Machine Learning:
 #### Regression
