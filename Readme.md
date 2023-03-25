@@ -49,8 +49,6 @@ sizes and axel combination.
 * __[Power consumption prediction](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/time-series-analysis/Power-consumption-forecasting)__: Real time prediction for power consumption using DeepAR on AWS.
 ---
 
-### Data Analysis 
----
 ### Data Visulization:
 * __[Immigrants to Canada data visulization](https://nbviewer.jupyter.org/github/youssefHosni/Data-Science-Portofolio/blob/main/Data%20Visualization/Python/Immigration_to_Canda_Data_Visualization.ipynb)__: Visualizing the data of the immigrants to Canada using different visualizing libraries in Python.
 *  __[Geospatial visualization of San Francisco Police Department Incidents](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FyoussefHosni%2FData-Science-Portofolio%2Fblob%2Fmain%2FData%2520Visualization%2FPython%2FSpatial%2520visualization%2520of%2520San%2520Francisco%2520incidents.ipynb)__: Visualizaing the geospatial data of the San Francisco police department incidents for the year 2016.
