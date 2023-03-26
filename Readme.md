@@ -42,8 +42,7 @@ sizes and axel combination.
 
 * __[Real Time Sign Language interpretation App](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Computer%20Vision/Real%20Time%20Sign%20Language%20Interpretation%20App)__: Developed a real-time sign language interpretation application using React.js and tensorflow.js. 
 * __[Object Detection Deployed on FastAPI]()__:
-* __[Stable Diffusion API]()__:
-
+* __[Stable Diffusion Web Application](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)__: Building a stable diffusion web application using Hugging Face, React, and fastAPI. 
 ---
 ### Natural Language Processing 
 
