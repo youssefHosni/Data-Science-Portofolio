@@ -1,0 +1,7 @@
+ibmcloud login 
+
+ibmcloud target -r eu-de
+
+# configurations 
+
+ibmcloud cos bucket-cors-put --bucket tensorflowjsrealtimesign --cors-configuration file://corsconfig.json
