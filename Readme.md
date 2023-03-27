@@ -7,7 +7,7 @@
 * Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
 * Conducted A/B testing to identify significant differences in the modulation of brain cardiovascular pulse with respiration between control subjects and individuals with Alzheimer's disease.
 * Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted two papers to JCBFM.
-### [Alzhimers CV-BOLD Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Sensor-activity-recognition) ###
+### [Alzhimers CV-BOLD Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Alzhimers%20CV-BOLD%20Classification) ###
 * Trained multiple classifier that improved the classification performance of imbalanced Alzheimer’s fMRI images by more than 12% compared to state of art on the same data.
 * Analyzed, visualized, and discussed the results with a team of neurological researchers to have a better understanding of the results and Alzheimer’s disease. 
 * Analyzed, visualized, and reported the results and submitted a research paper to ISPr 2023 scientific conference.
