@@ -18,7 +18,7 @@
 
 ### [Building Recommendation System using Pyspark]() ###
 
-### [Real Time Car Plate Detection Mobile Application]() ###
+### [Real Time Car Plate Detection Mobile Application]() ###: Building a real time car plate detection using Tensorflow and EasyOCR 
 
 ----
 
