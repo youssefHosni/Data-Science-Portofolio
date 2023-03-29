@@ -16,7 +16,8 @@
 * Developed a real-time sign language interpretation application using React.js, tensroflow and tensorflow.js and deployed on IBM cloud servies.
 
 
-### [Building Recommendation System using Pyspark]() ###
+### [Building Movie Recommendation System using Pyspark]() ###
+Building a recommendation engine using Alternating Least Squares in PySpark and using the popular MovieLens dataset and the Million Songs dataset
 
 ### [Real Time Car Plate Detection Mobile Application]() ###: 
 * Building a real time car plate detection mobile application using Tensorflow and EasyOCR. 
