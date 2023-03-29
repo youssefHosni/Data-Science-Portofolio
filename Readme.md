@@ -17,7 +17,7 @@
 
 
 ### [Building Movie Recommendation System using Pyspark]() ###
-* Building a recommendation engine using Alternating Least Squares in PySpark and using the popular MovieLens dataset and the Million Songs dataset
+* Building a recommendation engine using Alternating Least Squares in PySpark and using the popular MovieLens dataset and the Million Songs dataset.
 
 ### [Real Time Car Plate Detection Mobile Application]() ###
 * Building a real time car plate detection mobile application using Tensorflow and EasyOCR. 
