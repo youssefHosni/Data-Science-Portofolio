@@ -1,6 +1,8 @@
 # Melenoma Classification
 
-## 1. Problem Statment 
+## 1. Problem Statment
+
+Classfying Melenoma skin lesion images into 9 classes of diagnostics using deep learning models.  
 
 ## 2. Methods
 
