@@ -16,6 +16,9 @@ The dataset used is the [Skin Lesion Images for Melanoma Classification on Kaggl
 * Vascular lesion
 * Squamous cell carcinoma
 * None of the above
+![Screenshot 2023-03-30 183038](https://user-images.githubusercontent.com/72076328/228887596-f9be3bed-ad19-4469-8fda-09a8725bb246.png)
+
+
 
 
 ### 2.2. Data Preprcoessing 
