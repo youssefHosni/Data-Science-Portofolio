@@ -24,7 +24,7 @@
 
 ----
 
-## Skill Based Projects ## 
+# Skill Based Projects #
 
 ## Machine Learning:
 #### Regression
