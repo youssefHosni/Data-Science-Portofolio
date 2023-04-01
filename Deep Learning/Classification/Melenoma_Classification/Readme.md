@@ -37,5 +37,5 @@ Finetuned pretrained CNN based models. The models used are:
 
 
 ## 3. Results 
-
+Since the data is imbalanced so the F1_score.
 
