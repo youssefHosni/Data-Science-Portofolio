@@ -14,7 +14,8 @@
 
 ### __[Real Time Sign Language Interpretation Web Application](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Computer%20Vision/Real%20Time%20Sign%20Language%20Interpretation%20App)__ ### 
 * Developed a real-time sign language interpretation application using React.js, tensroflow and tensorflow.js and deployed on IBM cloud servies.
-* __[Stable Diffusion Web Application](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)__: Building a stable diffusion web application using Hugging Face, React, and fastAPI. 
+### __[Stable Diffusion Web Application](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)__### 
+* Building a stable diffusion web application using Hugging Face, React, and fastAPI. 
 
 ### [Building Movie Recommendation System using Pyspark]() ###
 * Building a recommendation engine using Alternating Least Squares in PySpark and using the popular MovieLens dataset and the Million Songs dataset.
