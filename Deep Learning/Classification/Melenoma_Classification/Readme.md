@@ -21,14 +21,20 @@ The dataset used is the [Skin Lesion Images for Melanoma Classification on Kaggl
 
 ![Screenshot 2023-03-30 183038](https://user-images.githubusercontent.com/72076328/228887596-f9be3bed-ad19-4469-8fda-09a8725bb246.png)
 
-
-
-
 ### 2.2. Data Preprcoessing 
+
 
 ### 2.3. Feature Engineering 
 
+
 ### 2.4. Models
+Finetuned pretrained CNN based models. The models used are: 
+
+* VGG-16
+* VGG-19
+* ResNet-50 
+* Mobile-Net
+
 
 ## 3. Results 
 
