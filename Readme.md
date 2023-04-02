@@ -6,7 +6,7 @@
 * Utilized Python programming language and Bash scripting to preprocess and extract features from 4D complex brain imaging data amounting to 0.25 TB, applying a 3D multiresolution optical flow technique.
 * Employed signal processing techniques with Python programming language to modulate respiratory signals with calculated brain signal speed.
 * Conducted A/B testing to identify significant differences in the modulation of brain cardiovascular pulse with respiration between control subjects and individuals with Alzheimer's disease.
-* Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted two papers to JCBFM.
+* Visualized and presented research findings to neurological researchers, contributing to a greater understanding of Alzheimer's disease. Additionally, authored and submitted a paper to JCBFM.
 * **Paper**: [Elabasy, A., Suhonen, M., Rajna, Z. et al. Respiratory brain impulse propagation in focal epilepsy. Sci Rep 13, 5222 (2023). https://doi.org/10.1038/s41598-023-32271-7](https://www.nature.com/articles/s41598-023-32271-7#citeas)
 ### [Alzhimers CV-BOLD Classification](https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Alzhimers%20CV-BOLD%20Classification) ###
 * Trained multiple classifier that improved the classification performance of imbalanced Alzheimer’s fMRI images by more than 12% compared to state of art on the same data.
