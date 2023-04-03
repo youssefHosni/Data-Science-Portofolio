@@ -13,4 +13,8 @@ In this project I will predict the price of old automobile. In this project the 
 ## 2. Methods
 
 ### 2.1. Data
+The dataset used is the [Automobile Dataset](https://www.kaggle.com/datasets/premptk/automobile-data-changed) from Kaggle. The data
+
+### 2.2. Data Preprocessing 
+
 
