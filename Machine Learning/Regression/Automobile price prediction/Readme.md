@@ -9,3 +9,8 @@ In this project I will predict the price of old automobile. In this project the 
 * Explore features or charecteristics to predict price of car
 * Develop prediction models
 * Evaluate and refine prediction models
+
+## 2. Methods
+
+### 2.1. Data
+
