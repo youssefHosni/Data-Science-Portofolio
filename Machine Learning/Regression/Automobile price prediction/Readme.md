@@ -17,4 +17,21 @@ The dataset used is the [Automobile Dataset](https://www.kaggle.com/datasets/pre
 
 ### 2.2. Data Preprocessing 
 
+#### Identify and handle missing values ####
+
+#### Correct data format ####
+
+### 2.3. Feature Engineering ###
+
+Data Standardization
+
+
+Data Normalization
+
+
+Binning
+
+### 2.3. Data Exploration ###
+
+
 
