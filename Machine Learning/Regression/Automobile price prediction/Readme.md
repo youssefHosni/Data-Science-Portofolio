@@ -23,13 +23,14 @@ The dataset used is the [Automobile Dataset](https://www.kaggle.com/datasets/pre
 
 ### 2.3. Feature Engineering ###
 
-Data Standardization
+#### Data Standardization ####
 
 
-Data Normalization
+#### Data Normalization ####
 
 
-Binning
+#### Binning ####
+
 
 ### 2.3. Data Exploration ###
 
